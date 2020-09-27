@@ -18,10 +18,6 @@ const getCaty = items => {
 }
 
 
-
-
-
-
 export default class CourseCart extends Component {
     constructor(props) {
         super()
