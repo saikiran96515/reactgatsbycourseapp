@@ -1,25 +1,25 @@
-.bg-theme{
-  background-color:#BB2CD9;
+.bg-theme {
+  background-color: #e717e0;
 }
-.cart-icon{
+.cart-icon {
   font-size: 2rem;
 }
 
-.hero-background{
+.hero-background {
   min-height: 100vh;
-  display:flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
 
-.btn-warning{
+.btn-warning {
   padding: 8px 35px;
 }
 
-.about-background{
+.about-background {
   min-height: 30vh;
-  display:flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
