@@ -13,8 +13,8 @@ const IndexPage = ({data}) => (
     <SEO title="Home" />
     <HeroSection 
     img={data.img.childImageSharp.fluid}
-    title="I write Code"
-    subtitle="LearnCodeOnline.in"
+    title="Saikiran Yernena"
+    subtitle="mywebsite.in"
     heroclass="hero-background"
     />
     <InfoBlock heading="About Us" />
